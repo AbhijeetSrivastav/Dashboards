@@ -13,7 +13,7 @@ In order to monitor and assess our bank's lending activities and performance, we
 <h2 id="documentation"> :bookmark: Links</h2>
 
 <ul>
-    <li><a href="https://www.novypro.com/project/bank-loan-1f" target="_blank">Live Dashboard @NovyPro)</a></li>
+    <li><a href="https://www.novypro.com/project/bank-loan-1" target="_blank">Live Dashboard @NovyPro)</a></li>
     <li><a href="https://github.com/AbhijeetSrivastav/Dashboards/blob/main/Bank%20Loan/Domain%20Knowledge.pdf" target="_blank">Domain Knowledge</a></li>
 
 ![-----------------------------------------------------](/assets/rgb.png)
